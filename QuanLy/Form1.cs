@@ -140,4 +140,5 @@ namespace QuanLy
             txtDiadiem.Text = dataGridView2.Rows[i].Cells[2].Value.ToString();
         }
     }
+    // hello Thinh
 }
