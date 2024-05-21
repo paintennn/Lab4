@@ -11,6 +11,8 @@ using System.Windows.Forms;
 
 namespace QuanLy
 {
+
+    //
     public partial class Form1 : Form
     {
         SqlConnection connection;
