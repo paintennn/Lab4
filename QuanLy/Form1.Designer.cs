@@ -437,7 +437,7 @@ namespace QuanLy
             this.groupBox1.Size = new System.Drawing.Size(572, 229);
             this.groupBox1.TabIndex = 27;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Phòng ban";
+            this.groupBox1.Text = "Nhân viên";
             this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // groupBox2
@@ -453,7 +453,7 @@ namespace QuanLy
             this.groupBox2.Size = new System.Drawing.Size(419, 229);
             this.groupBox2.TabIndex = 28;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Nhân viên";
+            this.groupBox2.Text = "Phòng ban";
             // 
             // Form1
             // 
@@ -538,6 +538,4 @@ namespace QuanLy
     }
 }
 
-
-}
 
